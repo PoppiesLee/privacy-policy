@@ -1,3 +1,29 @@
+Privacy Policy
+
+Thank you for using this app.
+
+We attach great importance to your privacy and the protection of your personal information. This app does not proactively collect, store, or share any information that could be used to personally identify you.
+
+I. Information Collection
+This app does not require user registration and does not collect names, phone numbers, email addresses, or other personally identifiable information.
+
+II. Information Usage
+This app performs its functions locally on your device; it does not upload any data to servers or share data with third parties.
+
+III. Third-Party Services
+This app does not integrate third-party advertising, statistics, or analytics services.
+
+IV. Information Security
+We employ reasonable technical measures to ensure data security during the app's operation.
+
+V. Changes to the Privacy Policy
+If this Privacy Policy is updated, we will notify you by updating this page.
+
+VI. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:
+Email: ljialong218@gmail.com
+
+
 隐私政策
 
 感谢您使用本应用。

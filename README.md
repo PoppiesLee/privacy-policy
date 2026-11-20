@@ -1,3 +1,12 @@
+## TripMeter
+
+[TripMeter privacy policy](https://poppieslee.github.io/privacy-policy/tripmeter/#en) · [TripMeter 隐私政策](https://poppieslee.github.io/privacy-policy/tripmeter/#zh-Hans)
+
+The policy below applies to other apps that link here. TripMeter has its own policy above.
+以下通用政策适用于引用本页的其他应用。TripMeter 请参阅上方专属政策。
+
+---
+
 Privacy Policy
 
 Thank you for using this app.

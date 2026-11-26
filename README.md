@@ -2,8 +2,12 @@
 
 [TripMeter privacy policy](https://poppieslee.github.io/privacy-policy/tripmeter/#en) · [TripMeter 隐私政策](https://poppieslee.github.io/privacy-policy/tripmeter/#zh-Hans)
 
-The policy below applies to other apps that link here. TripMeter has its own policy above.
-以下通用政策适用于引用本页的其他应用。TripMeter 请参阅上方专属政策。
+## SpaceTag
+
+[SpaceTag privacy policy and support](https://poppieslee.github.io/privacy-policy/spacetag/#en) · [SpaceTag 隐私政策与支持](https://poppieslee.github.io/privacy-policy/spacetag/#zh-Hans)
+
+The policy below applies to other apps that link here. TripMeter and SpaceTag have dedicated policies above.
+以下通用政策适用于引用本页的其他应用。TripMeter 和 SpaceTag 请参阅上方各自的专属政策。
 
 ---
 
